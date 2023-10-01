@@ -1,1 +1,3 @@
-# mean-shift-clustering
+# Algos
+
+Misc algos and experiments
